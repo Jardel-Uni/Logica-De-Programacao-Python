@@ -1,0 +1,1 @@
+print("Olá, mundo. Passo a passo dos comandos do git...")
