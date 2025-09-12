@@ -1,0 +1,4 @@
+Selecionar tudo - Ctrl + A;
+Selecionar uma linha - Ctrl + L;
+Duplicar linha - Alt + Shift Seta para cima ou Seta para baixo;
+Mover uma linha - Alt + Seta para cima ou Seta para baixo;
