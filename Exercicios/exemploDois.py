@@ -17,4 +17,4 @@ print("Resultado subtração = ", subtracao)
 print("Resultado multiplicação = ", multiplicacao)
 print("Resultado divisão = ", divisao)
 
-messagebox.showinfo("Resultados", f"Soma: {soma}\nSubtração: {subtracao}\nMultiplicação: {multiplicacao}\nDivisão: {divisao}")
+messagebox.showinfo("Resultados", f" Soma: {soma}\n Subtração: {subtracao}\n Multiplicação: {multiplicacao}\n Divisão: {divisao}")
